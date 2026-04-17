@@ -32,6 +32,12 @@ It helps in understanding accident patterns and provides a structured way to man
 * PostgresSql
 
 
+🌐 Live Demo
+
+🚀 Frontend:https://accident-prediction-frontend.onrender.com
+
+⚙️ Backend API:https://accident-prediction-backend.onrender.com
+
 
 ## ⚙️ Features
 
@@ -79,7 +85,7 @@ git clone https://github.com/123chenna/Road_Accident_Prediction_System
 
 Update `application.properties`:
 
-spring.datasource.url=jdbc:mysql://localhost:3306/accident_db
+spring.datasource.url=jdbc:postgressql://localhost:3306/accident_db
 
 spring.datasource.username=root
 
