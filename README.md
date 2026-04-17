@@ -121,7 +121,7 @@ Open `index.html` in browser or use Live Server
   
   <img src="Road_Accident_Prediction_System_Screenshots/Accident_Prediction_Prediction.png" width="600"/>
   
-  <img src="Road_Accident_Prediction_System_Screenshots/Accident_Prdeiction_graphs.png" width="600"/>
+  <img src="Road_Accident_Prediction_System_Screenshots/Accident_Prediction_graphs.png" width="600"/>
   
 </p>
 
