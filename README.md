@@ -52,6 +52,10 @@ backend/
 ├── entity/
 └── application.properties
 
+
+
+
+
 frontend/
 ├── index.html
 ├── style.css
@@ -64,7 +68,11 @@ frontend/
 
 git clone https://github.com/123chenna/Road_Accident_Prediction_System
 
-* Backend: https://github.com/123chenna/accident-prediction-backend-
+
+
+* Backend: https://github.com/123chenna/accident-prediction-backend
+
+  
 * Frontend: https://github.com/123chenna/accident-prediction-frontend
 
 ### 2. Configure PostgresSQL
@@ -72,8 +80,11 @@ git clone https://github.com/123chenna/Road_Accident_Prediction_System
 Update `application.properties`:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/accident_db
+
 spring.datasource.username=root
+
 spring.datasource.password=your_password
+
 spring.jpa.hibernate.ddl-auto=update
 
 ### 3. Run the backend
@@ -115,8 +126,11 @@ Open `index.html` in browser or use Live Server
 ## 👨‍💻 Author
 
 **Majjari Chenna Keshava**
+
 https://github.com/123chenna
+
 keshavachenna330@gmail.com
+
 8639588635
 
 
